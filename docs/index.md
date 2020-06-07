@@ -1,1 +1,1 @@
-/Volumes/BaseQI/workdocs/dev/awesome-aws-workshops/README.md
+/Volumes/BaseQI/workdocs/dev/awesome-cdk/README.md
