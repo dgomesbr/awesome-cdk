@@ -24,4 +24,4 @@ jobs:
           GITHUB_TOKEN: "${{ secrets.GITHUB_TOKEN }}"
           MERGE_METHOD: "squash"
           MERGE_COMMIT_MESSAGE: "pull-request-description"
-          MERGE_FORKS:  
+          MERGE_FORKS:
