@@ -1,7 +1,7 @@
 {
-  "name": "AWSome AWS Workshops",
-  "short_name": "AWS Workshops",
-  "description": "Curated list of Awesome AWS Workshops found around the internet.",
+  "name": "Awesome CDK",
+  "short_name": "Awesome CDK",
+  "description": "A curated list of awesome projects related to the AWS Cloud Development Kit (AWS CDK).  ",
   "icons": [
     {
       "src": "/assets/img/android-chrome-192x192.png",
