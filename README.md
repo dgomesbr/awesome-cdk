@@ -1,7 +1,7 @@
 ---
 title: Awesome CDK
 site_description: A curated list of awesome projects related to the AWS Cloud Development Kit
-ogimage: http://awesome-aws-workshops.com/assets/img/awesomebg-extra.png
+ogimage: http://awesome-aws-workshops.com/assets/img/awesomebg-extra.png 
 ogimagealt: Awesome CDK
 ---
 
