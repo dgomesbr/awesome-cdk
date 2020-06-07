@@ -1,15 +1,14 @@
-site_name: Awesome AWS Workshops
-repo_name: dgomesbr/awesome-aws-workshops
-repo_url: https://github.com/dgomesbr/awesome-aws-workshops
+site_name: Awesome CDK
+repo_name: eladb/awesome-cdk
+repo_url: https://github.com/eladb/awesome-cdk
 edit_uri: "" # disable edit icon from theme
-site_author: Diego Magalhaes, Enrico Bergamo
-#copyright: This is NOT an official AWS website and has no affiliation with Amazon Web Services.<br> Except where otherwise noted, content on this site is licensed under a Creative Commons Attribution 4.0 International license.
-copyright: This is NOT an official AWS website and has no affiliation with Amazon Web Services.<br>This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
+site_author: Elad Ben-Israel
+copyright: To the extent possible under law, Elad Ben-Israel has waived all copyright and related or neighboring rights to this work.
 
 extra_css:
   - assets/css/extra.css
 nav:
-  - "Every workshop at your hands, build on!": "index.md"
+  - "Awesome CDK": "index.md"
 theme:
   name: material
   language: en
@@ -27,11 +26,11 @@ theme:
 extra:
   social:
     - icon: fontawesome/brands/github-alt
-      link: https://github.com/dgomesbr
+      link: https://github.com/eladb
     - icon: fontawesome/brands/twitter
-      link: https://twitter.com/dgomesbr
-    - icon: fontawesome/brands/linkedin
-      link: https://linkedin.com/in/diegomagalhaes/
+      link: https://twitter.com/emeshbi
+#    - icon: fontawesome/brands/linkedin
+#      link: https://linkedin.com/in/diegomagalhaes/
   manifest: manifest.webmanifest
 markdown_extensions:
   - extra
